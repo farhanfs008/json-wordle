@@ -4,6 +4,7 @@ description: JSON Wordle
 baseurl: "/"
 url: "https://farhanfs008.github.io/json-wordle/"
 permalink: /:title/
+theme: minima
 collections:
   projects:
     output: true
